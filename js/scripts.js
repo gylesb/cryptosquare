@@ -10,8 +10,6 @@ $(document).ready(function() {
 
 
 
-
-
     // alert(output.join(""));
     event.preventDefault();
   });
